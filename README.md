@@ -1,0 +1,2 @@
+# GenAI
+Tryouts for GenAI
